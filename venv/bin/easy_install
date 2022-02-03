@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/devtools/Projetos Python/Projetos com Jupyter/Ebac/WebScraping/tecnologia_webscraping/venv/bin/python3" "$0" "$@"
+'''exec' "/home/devtools/Projetos Python/Projetos com Jupyter/Ebac/WebScraping/cop26_webScrap/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/devtools/Projetos Python/Projetos com Jupyter/Ebac/WebScraping/tecnologia_webscraping/venv"
+set -gx VIRTUAL_ENV "/home/devtools/Projetos Python/Projetos com Jupyter/Ebac/WebScraping/cop26_webScrap/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

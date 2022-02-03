@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/devtools/Projetos Python/Projetos com Jupyter/Ebac/WebScraping/tecnologia_webscraping/venv"
+VIRTUAL_ENV="/home/devtools/Projetos Python/Projetos com Jupyter/Ebac/WebScraping/cop26_webScrap/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
