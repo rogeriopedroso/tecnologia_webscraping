@@ -9,4 +9,4 @@ The source of our information is the g1 portal, an important Brazilian news site
 
 The result:
 
-[![Result](https://github.com/rogeriopedroso/tecnologia_webscraping/wordcloud2.png)](https://github.com/rogeriopedroso/tecnologia_webscraping/wordcloud2.png)
+[![Result](https://github.com/rogeriopedroso/tecnologia_webscraping/blob/main/wordcloud2.png)](https://github.com/rogeriopedroso/tecnologia_webscraping/blob/main/wordcloud2.png)
